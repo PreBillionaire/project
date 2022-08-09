@@ -13,7 +13,7 @@ Defines our Database Structure
 Has all the required dependencies
 ## go.sum
 Validated hash of dependencies
-## main
+## main.go
 Initiate our server
 
 ## Installation
@@ -25,7 +25,7 @@ Install the dependencies start the server.
 ```sh
 1. Once you download the zip, Open the directory in Termial.
 2. Run "go mod tidy" - All the required dependencies will be downloaded and installed
-3. In controller.go kindly replace const connectionString = " with your mongoDB database URL"
+3. In controllers.go kindly replace const connectionString = " with your mongoDB database URL"
 ```
 
 # Working
