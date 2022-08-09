@@ -36,6 +36,6 @@ Install the dependencies start the server.
 4. Now we can perform CRUD operations. Refer **structure.go** for input json structure (**Employee**)
 5. Program ends if username is entered incorrect, although this can be handled in different ways.
 6. In this project we have performed MongoDB CRUD operations using REST API in Golang. We can register new users. Authenticate their login.
-If the username is present in the Employee DB we can perform all the operations. *We can set the flag on successfull login and skip the checking username in database.- not implemented*
-7. Operations as follows - Adding new employee, Updating employee details, Get all employee present in database, Delete one emplyee details, Delete whole database
+If the username is present in the Employee DB we can perform all the operations. **We can set the flag on successfull login and skip the checking username in database.- not implemented.**
+7. Operations as follows - Adding new employee, Updating employee details, Get all employee present in database, Delete one emplyee details, Delete whole database.
 
